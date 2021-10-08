@@ -30,3 +30,5 @@ and his tune is heard
 on the distant hill 
 for the caged bird
 sings of freedom
+
+The bird flies away to freedom.
